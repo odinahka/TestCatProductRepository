@@ -1,0 +1,14 @@
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\bin\Debug\net6.0\PFS.ProdCat.Model.deps.json
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\bin\Debug\net6.0\PFS.ProdCat.Model.runtimeconfig.json
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\bin\Debug\net6.0\PFS.ProdCat.Model.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\bin\Debug\net6.0\PFS.ProdCat.Model.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\PFS.ProdCat.Model.csproj.AssemblyReference.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\PFS.ProdCat.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\PFS.ProdCat.Model.AssemblyInfoInputs.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\PFS.ProdCat.Model.AssemblyInfo.cs
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\PFS.ProdCat.Model.csproj.CoreCompileInputs.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\PFS.ProdCat.Model.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\refint\PFS.ProdCat.Model.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\PFS.ProdCat.Model.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\PFS.ProdCat.Model.genruntimeconfig.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\TestProdCatLib\obj\Debug\net6.0\ref\PFS.ProdCat.Model.dll

@@ -1,0 +1,17 @@
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\bin\Debug\net6.0\PFS.ProdCat.Repository.deps.json
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\bin\Debug\net6.0\PFS.ProdCat.Repository.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\bin\Debug\net6.0\PFS.ProdCat.Repository.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\bin\Debug\net6.0\PFS.ProdCat.DataAccess.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\bin\Debug\net6.0\PFS.ProdCat.Model.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\bin\Debug\net6.0\PFS.ProdCat.DataAccess.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\bin\Debug\net6.0\PFS.ProdCat.Model.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\PFS.ProdCat.Repository.csproj.AssemblyReference.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\PFS.ProdCat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\PFS.ProdCat.Repository.AssemblyInfoInputs.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\PFS.ProdCat.Repository.AssemblyInfo.cs
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\PFS.ProdCat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\PFS.ProdCat.Repository.csproj.CopyComplete
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\PFS.ProdCat.Repository.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\refint\PFS.ProdCat.Repository.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\PFS.ProdCat.Repository.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.Repository\obj\Debug\net6.0\ref\PFS.ProdCat.Repository.dll

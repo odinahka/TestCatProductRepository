@@ -1,0 +1,15 @@
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\bin\Debug\net6.0\PFS.ProdCat.DataAccess.deps.json
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\bin\Debug\net6.0\PFS.ProdCat.DataAccess.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\bin\Debug\net6.0\PFS.ProdCat.DataAccess.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\bin\Debug\net6.0\PFS.ProdCat.Model.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\bin\Debug\net6.0\PFS.ProdCat.Model.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\PFS.ProdCat.DataAccess.csproj.AssemblyReference.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\PFS.ProdCat.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\PFS.ProdCat.DataAccess.AssemblyInfoInputs.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\PFS.ProdCat.DataAccess.AssemblyInfo.cs
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\PFS.ProdCat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\PFS.ProdCat.DataAccess.csproj.CopyComplete
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\PFS.ProdCat.DataAccess.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\refint\PFS.ProdCat.DataAccess.dll
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\PFS.ProdCat.DataAccess.pdb
+C:\Users\odinaka.afocha\source\repos\WebProdCatApi\PFS.ProdCat.DataAccess\obj\Debug\net6.0\ref\PFS.ProdCat.DataAccess.dll
