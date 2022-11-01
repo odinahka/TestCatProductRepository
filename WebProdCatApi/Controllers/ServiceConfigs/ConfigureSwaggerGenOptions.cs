@@ -20,7 +20,7 @@ namespace PFS.ProdCat.API.Controllers.ServiceConfigs
                 options.SwaggerDoc(
                     desc.GroupName, new Microsoft.OpenApi.Models.OpenApiInfo()
                     {
-                        Title = $"Account Upgrade API {desc.ApiVersion}",
+                        Title = $"Product Category API {desc.ApiVersion}",
                         Version = desc.ApiVersion.ToString()
                     }
                     );
