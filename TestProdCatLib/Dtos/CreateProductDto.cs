@@ -11,5 +11,6 @@ namespace PFS.ProdCat.Model.Dtos
         public string Name { get; set; }
         public DateTime ExpiryDate { get; set; }
         public string CategoryId { get; set; }
+        public string Code { get; set; }
     }
 }
